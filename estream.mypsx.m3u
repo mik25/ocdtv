@@ -1,0 +1,418 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GB | CHELSEA TV" tvg-logo="" group-title="ENGLAND (GB)",GB | CHELSEA TV
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10159
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="GB | BBC1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BBC1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/159
+#EXTINF:-1 tvg-ID="" tvg-name="GB | BBC1 SD" tvg-logo="" group-title="ENGLAND (GB)",GB | BBC1 SD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10035
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="GB | BBC2 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BBC2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/165
+#EXTINF:-1 tvg-ID="" tvg-name="GB | BBC3 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BBC3 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/177
+#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="GB | BBC4 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BBC4 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3632
+#EXTINF:-1 tvg-ID="BBCNews.uk" tvg-name="GB | BBC News" tvg-logo="" group-title="ENGLAND (GB)",GB | BBC News
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2474
+#EXTINF:-1 tvg-ID="" tvg-name="UK | EuroNews" tvg-logo="" group-title="ENGLAND (GB)",UK | EuroNews
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/12457
+#EXTINF:-1 tvg-ID="BTSport1.uk" tvg-name="GB | BT Sport 1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BT Sport 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/175
+#EXTINF:-1 tvg-ID="" tvg-name="GB | BT Sport 1 SD" tvg-logo="" group-title="ENGLAND (GB)",GB | BT Sport 1 SD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9887
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="GB | BT Sport 2 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BT Sport 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/173
+#EXTINF:-1 tvg-ID="" tvg-name="GB | BT Sport 2 SD" tvg-logo="" group-title="ENGLAND (GB)",GB | BT Sport 2 SD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9763
+#EXTINF:-1 tvg-ID="BTSport3.uk" tvg-name="GB | BT Sport 3 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BT Sport 3 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/4295
+#EXTINF:-1 tvg-ID="" tvg-name="GB | beIN Sports HD 10 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | beIN Sports HD 10 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10357
+#EXTINF:-1 tvg-ID="" tvg-name="GB | beIN Sports HD 11 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | beIN Sports HD 11 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10356
+#EXTINF:-1 tvg-ID="" tvg-name="GB | beIN Sports HD 12 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | beIN Sports HD 12 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10358
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Eleven Sports 1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Eleven Sports 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/12388
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Eleven Sports 2 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Eleven Sports 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/12389
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Discovery ID" tvg-logo="" group-title="ENGLAND (GB)",GB | Discovery ID
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3445
+#EXTINF:-1 tvg-ID="DiscoveryChannel.uk" tvg-name="GB | Discovery HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Discovery HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6421
+#EXTINF:-1 tvg-ID="DiscoveryHistory.uk" tvg-name="GB | Discovery-history" tvg-logo="" group-title="ENGLAND (GB)",GB | Discovery-history
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/1291
+#EXTINF:-1 tvg-ID="DiscoveryScience.uk" tvg-name="GB | Discovery Science HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Discovery Science HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2428
+#EXTINF:-1 tvg-ID="DiscoveryShed.uk" tvg-name="GB | DISCOVERY CHANNEL HD" tvg-logo="" group-title="ENGLAND (GB)",GB | DISCOVERY CHANNEL HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2432
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Natinoal Geo HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Natinoal Geo HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/1295
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Nat Geo Wild" tvg-logo="" group-title="ENGLAND (GB)",GB | Nat Geo Wild
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10147
+#EXTINF:-1 tvg-ID="Nicktoons.uk" tvg-name="GB | Nicktoons HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Nicktoons HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3767
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Nick JR+1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Nick JR+1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2024
+#EXTINF:-1 tvg-ID="NickJrToo.uk" tvg-name="GB | Nickeledion-jr" tvg-logo="" group-title="ENGLAND (GB)",GB | Nickeledion-jr
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3446
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Cartoon Network" tvg-logo="" group-title="ENGLAND (GB)",GB | Cartoon Network
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10146
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Disney CH" tvg-logo="" group-title="ENGLAND (GB)",GB | Disney CH
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10145
+#EXTINF:-1 tvg-ID="VH1.uk" tvg-name="GB | VH1 Classic HD" tvg-logo="" group-title="ENGLAND (GB)",GB | VH1 Classic HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/4296
+#EXTINF:-1 tvg-ID="" tvg-name="GB | FC Manchester United (MUTV)" tvg-logo="" group-title="ENGLAND (GB)",GB | FC Manchester United (MUTV)
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10193
+#EXTINF:-1 tvg-ID="SkySportsBoxOffice.uk" tvg-name="GB | Sky Sports Box Office" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports Box Office
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6923
+#EXTINF:-1 tvg-ID="SkySelect.uk" tvg-name="GB | Sky Select HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Select HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6987
+#EXTINF:-1 tvg-ID="More4.uk" tvg-name="GB | More 4 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | More 4 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3425
+#EXTINF:-1 tvg-ID="RealLives.uk" tvg-name="GB | Real Lives HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Real Lives HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/4298
+#EXTINF:-1 tvg-ID="ITV1Anglia.uk" tvg-name="GB | ITV1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | ITV1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/160
+#EXTINF:-1 tvg-ID="" tvg-name="GB | ITV1 SD" tvg-logo="" group-title="ENGLAND (GB)",GB | ITV1 SD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2421
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="GB | ITV2 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | ITV2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/163
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="GB | ITV3 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | ITV3 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/158
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="GB | ITV 4 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | ITV 4 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/174
+#EXTINF:-1 tvg-ID="PickTV.uk" tvg-name="GB PICK TV HD" tvg-logo="" group-title="ENGLAND (GB)",GB PICK TV HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/1293
+#EXTINF:-1 tvg-ID="" tvg-name="GB | RTE 1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | RTE 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/263
+#EXTINF:-1 tvg-ID="" tvg-name="GB | RTE 2 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | RTE 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/262
+#EXTINF:-1 tvg-ID="" tvg-name="GB | TV 3 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | TV 3 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/837
+#EXTINF:-1 tvg-ID="TG4.ie" tvg-name="GB | TG 4 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | TG 4 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/4297
+#EXTINF:-1 tvg-ID="HorrorChannel.uk" tvg-name="GB | Horror Channel HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Horror Channel HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/4299
+#EXTINF:-1 tvg-ID="TrueMovies.uk" tvg-name="GB | True Movies 2 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | True Movies 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2430
+#EXTINF:-1 tvg-ID="" tvg-name="GB | MovieDrama HD" tvg-logo="" group-title="ENGLAND (GB)",GB | MovieDrama HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2429
+#EXTINF:-1 tvg-ID="SkySelect.uk" tvg-name="GB | Sky Movies Select HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Movies Select HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2425
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Sky Movies Action & Adventure HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Movies Action & Adventure HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2424
+#EXTINF:-1 tvg-ID="SkyFamily.uk" tvg-name="GB | Sky Movies Family HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Movies Family HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2426
+#EXTINF:-1 tvg-ID="SkySciFiHorror.uk" tvg-name="GB | Sky Movies Sci-Fi & Horror HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Movies Sci-Fi & Horror HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2423
+#EXTINF:-1 tvg-ID="Thriller.au" tvg-name="GB | Box Upfront HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Box Upfront HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2427
+#EXTINF:-1 tvg-ID="BBCNews.uk" tvg-name="GB | BBC News HD" tvg-logo="" group-title="ENGLAND (GB)",GB | BBC News HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2475
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="GB | Sky Living HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Living HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2422
+#EXTINF:-1 tvg-ID="" tvg-name="GB | SKY SPORTS FOOTABLL HD" tvg-logo="" group-title="ENGLAND (GB)",GB | SKY SPORTS FOOTABLL HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9605
+#EXTINF:-1 tvg-ID="SkySportsF1.uk" tvg-name="GB | Sky Sports F1" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports F1
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2431
+#EXTINF:-1 tvg-ID="SkySportsNews.uk" tvg-name="GB | Sky Sport News HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sport News HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6420
+#EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" tvg-name="GB | Sky Sports main event HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports main event HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/162
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Sky Sports main event SD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports main event SD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9603
+#EXTINF:-1 tvg-ID="SkySportsCricket.uk" tvg-name="GB | Sky Sports cricket HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports cricket HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/172
+#EXTINF:-1 tvg-ID="SkySportsAction.uk" tvg-name="GB | Sky Sports action HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports action HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/166
+#EXTINF:-1 tvg-ID="SkySportsGolf.uk" tvg-name="GB | Sky Sports golf HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports golf HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/168
+#EXTINF:-1 tvg-ID="SkySportsPremiereLeague.uk" tvg-name="GB | Sky Sport Premier League HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sport Premier League HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/170
+#EXTINF:-1 tvg-ID="SkySportsArena.uk" tvg-name="GB | Sky Sport Arena HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sport Arena HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6800
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Sky Sport The Open HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sport The Open HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6799
+#EXTINF:-1 tvg-ID="Eurosport1.uk" tvg-name="GB | EUROSPORT 1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | EUROSPORT 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/167
+#EXTINF:-1 tvg-ID="EirSport1.ie" tvg-name="GB | Eir Sport 1 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Eir Sport 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3765
+#EXTINF:-1 tvg-ID="" tvg-name="GB | Eir Sport 2 HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Eir Sport 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10192
+#EXTINF:-1 tvg-ID="SkySportsMix.uk" tvg-name="GB | Sky Sports Mix HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Sky Sports Mix HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2433
+#EXTINF:-1 tvg-ID="AtTheRaces.uk" tvg-name="GB | At The Races" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Horserace_520133030.jpg/300px-Horserace_520133030.jpg" group-title="ENGLAND (GB)",GB | At The Races
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6427
+#EXTINF:-1 tvg-ID="RacingUK.uk" tvg-name="GB | Racing HD" tvg-logo="" group-title="ENGLAND (GB)",GB | Racing HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6450
+#EXTINF:-1 tvg-ID="" tvg-name="GB | MOTORSPORT TV" tvg-logo="" group-title="ENGLAND (GB)",GB | MOTORSPORT TV
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3743
+#EXTINF:-1 tvg-ID="" tvg-name="USA | CNN HD" tvg-logo="" group-title="USA & CANADA",USA | CNN HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2020
+#EXTINF:-1 tvg-ID="" tvg-name="USA | TNT HD" tvg-logo="" group-title="USA & CANADA",USA | TNT HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3768
+#EXTINF:-1 tvg-ID="" tvg-name="USA | TBS HD" tvg-logo="" group-title="USA & CANADA",USA | TBS HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/6544
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FX HD" tvg-logo="" group-title="USA & CANADA",USA | FX HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2023
+#EXTINF:-1 tvg-ID="" tvg-name="USA | AMC HD" tvg-logo="" group-title="USA & CANADA",USA | AMC HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2021
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Starz Cinema" tvg-logo="" group-title="USA & CANADA",USA | Starz Cinema
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/2022
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Cinemax Moremax HD" tvg-logo="" group-title="USA & CANADA",USA | Cinemax Moremax HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/7384
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Comedy Central HD" tvg-logo="" group-title="USA & CANADA",USA | Comedy Central HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/7387
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Discovery Channel HD" tvg-logo="" group-title="USA & CANADA",USA | Discovery Channel HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/7386
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Hallmark Channe HD" tvg-logo="" group-title="USA & CANADA",USA | Hallmark Channe HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/7383
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Showtime HD" tvg-logo="" group-title="USA & CANADA",USA | Showtime HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/7385
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBA TV" tvg-logo="" group-title="USA & CANADA",USA | NBA TV
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3737
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NICKELODEN HD" tvg-logo="" group-title="USA & CANADA",USA | NICKELODEN HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3738
+#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Golf HD" tvg-logo="" group-title="USA & CANADA",USA | NBC Golf HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3742
+#EXTINF:-1 tvg-ID="" tvg-name="USA | HBO Family HD" tvg-logo="" group-title="USA & CANADA",USA | HBO Family HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3739
+#EXTINF:-1 tvg-ID="" tvg-name="USA | SPIKE HD" tvg-logo="" group-title="USA & CANADA",USA | SPIKE HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3740
+#EXTINF:-1 tvg-ID="" tvg-name="USA | The CW 11" tvg-logo="" group-title="USA & CANADA",USA | The CW 11
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/11804
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX SPORT 1 HD" tvg-logo="" group-title="USA & CANADA",USA | FOX SPORT 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3730
+#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX SPORT 2 HD" tvg-logo="" group-title="USA & CANADA",USA | FOX SPORT 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3731
+#EXTINF:-1 tvg-ID="" tvg-name="USA | HISTORY HD" tvg-logo="" group-title="USA & CANADA",USA | HISTORY HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3741
+#EXTINF:-1 tvg-ID="" tvg-name="US | ESPN 1" tvg-logo="" group-title="ENGLAND (GB)",US | ESPN 1
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9299
+#EXTINF:-1 tvg-ID="" tvg-name="US | ESPN 2" tvg-logo="" group-title="ENGLAND (GB)",US | ESPN 2
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9300
+#EXTINF:-1 tvg-ID="" tvg-name="US | ESPN 3" tvg-logo="" group-title="ENGLAND (GB)",US | ESPN 3
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9301
+#EXTINF:-1 tvg-ID="" tvg-name="US | ESPN Deportes" tvg-logo="" group-title="ENGLAND (GB)",US | ESPN Deportes
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/9302
+#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 1 HD" tvg-logo="" group-title="USA & CANADA",USA | TSN 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3732
+#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 2 HD" tvg-logo="" group-title="USA & CANADA",USA | TSN 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3733
+#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 3 HD" tvg-logo="" group-title="USA & CANADA",USA | TSN 3 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3734
+#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 4 HD" tvg-logo="" group-title="USA & CANADA",USA | TSN 4 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3735
+#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 5 HD" tvg-logo="" group-title="USA & CANADA",USA | TSN 5 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/3736
+#EXTINF:-1 tvg-ID="" tvg-name="###### CANADA ######" tvg-logo="" group-title="USA & CANADA",###### CANADA ######
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10549
+#EXTINF:-1 tvg-ID="" tvg-name="CA | A&E HD" tvg-logo="" group-title="USA & CANADA",CA | A&E HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10548
+#EXTINF:-1 tvg-ID="" tvg-name="CA | NBA HD" tvg-logo="" group-title="USA & CANADA",CA | NBA HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/11734
+#EXTINF:-1 tvg-ID="" tvg-name="CA | ABC Spark HD" tvg-logo="" group-title="USA & CANADA",CA | ABC Spark HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10547
+#EXTINF:-1 tvg-ID="" tvg-name="CA | AHC" tvg-logo="" group-title="USA & CANADA",CA | AHC
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10546
+#EXTINF:-1 tvg-ID="" tvg-name="CA | AMC FHD" tvg-logo="" group-title="USA & CANADA",CA | AMC FHD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10545
+#EXTINF:-1 tvg-ID="" tvg-name="CA | ANIMAL PLANET HD" tvg-logo="" group-title="USA & CANADA",CA | ANIMAL PLANET HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10544
+#EXTINF:-1 tvg-ID="" tvg-name="CA | BBC Kids" tvg-logo="" group-title="USA & CANADA",CA | BBC Kids
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10543
+#EXTINF:-1 tvg-ID="" tvg-name="CA | BBC WORLD NEWS" tvg-logo="" group-title="USA & CANADA",CA | BBC WORLD NEWS
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10542
+#EXTINF:-1 tvg-ID="" tvg-name="CA | BRAVO" tvg-logo="" group-title="USA & CANADA",CA | BRAVO
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10541
+#EXTINF:-1 tvg-ID="" tvg-name="CA | BRAVO HD" tvg-logo="" group-title="USA & CANADA",CA | BRAVO HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10540
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CBC CALGARY HD" tvg-logo="" group-title="USA & CANADA",CA | CBC CALGARY HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10539
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CBC EDMONTON HD" tvg-logo="" group-title="USA & CANADA",CA | CBC EDMONTON HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10538
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CBC FRENCH HD" tvg-logo="" group-title="USA & CANADA",CA | CBC FRENCH HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10537
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CBC NEWS TORONTO HD" tvg-logo="" group-title="USA & CANADA",CA | CBC NEWS TORONTO HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10536
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CBC TORONTO HD" tvg-logo="" group-title="USA & CANADA",CA | CBC TORONTO HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10535
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CBC WINNIPEG HD" tvg-logo="" group-title="USA & CANADA",CA | CBC WINNIPEG HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10534
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CHEK HD" tvg-logo="" group-title="USA & CANADA",CA | CHEK HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10533
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CITY TV FHD" tvg-logo="" group-title="USA & CANADA",CA | CITY TV FHD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10532
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CNBC WORLD" tvg-logo="" group-title="USA & CANADA",CA | CNBC WORLD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10531
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CNN HD" tvg-logo="" group-title="USA & CANADA",CA | CNN HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10530
+#EXTINF:-1 tvg-ID="" tvg-name="CA | COMEDY GOLD HD" tvg-logo="" group-title="USA & CANADA",CA | COMEDY GOLD HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10529
+#EXTINF:-1 tvg-ID="" tvg-name="CA | COMEDY HD" tvg-logo="" group-title="USA & CANADA",CA | COMEDY HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10528
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Country Music Television" tvg-logo="" group-title="USA & CANADA",CA | Country Music Television
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10527
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CP24 HD" tvg-logo="" group-title="USA & CANADA",CA | CP24 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10526
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CREATE HD" tvg-logo="" group-title="USA & CANADA",CA | CREATE HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10525
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV" tvg-logo="" group-title="USA & CANADA",CA | CTV
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10524
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV FHD" tvg-logo="" group-title="USA & CANADA",CA | CTV FHD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10523
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV Local" tvg-logo="" group-title="USA & CANADA",CA | CTV Local
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10522
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV MONTREAL HD" tvg-logo="" group-title="USA & CANADA",CA | CTV MONTREAL HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10521
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV News Live 1" tvg-logo="" group-title="USA & CANADA",CA | CTV News Live 1
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10520
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV News Live 2" tvg-logo="" group-title="USA & CANADA",CA | CTV News Live 2
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10519
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV News Live 3" tvg-logo="" group-title="USA & CANADA",CA | CTV News Live 3
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10518
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV News Live 4" tvg-logo="" group-title="USA & CANADA",CA | CTV News Live 4
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10517
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV TWO OTTAWA" tvg-logo="" group-title="USA & CANADA",CA | CTV TWO OTTAWA
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10516
+#EXTINF:-1 tvg-ID="" tvg-name="CA | CTV TWO VANCOUVER HD" tvg-logo="" group-title="USA & CANADA",CA | CTV TWO VANCOUVER HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10515
+#EXTINF:-1 tvg-ID="" tvg-name="CA | DISCOVERY SCIENCE CANADA" tvg-logo="" group-title="USA & CANADA",CA | DISCOVERY SCIENCE CANADA
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10514
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Discovery Science FHD" tvg-logo="" group-title="USA & CANADA",CA | Discovery Science FHD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10513
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Discovery Velocity HD" tvg-logo="" group-title="USA & CANADA",CA | Discovery Velocity HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10512
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Disney Channel HD" tvg-logo="" group-title="USA & CANADA",CA | Disney Channel HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10511
+#EXTINF:-1 tvg-ID="" tvg-name="CA | DISNEY JR" tvg-logo="" group-title="USA & CANADA",CA | DISNEY JR
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10510
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Disney Junior HD" tvg-logo="" group-title="USA & CANADA",CA | Disney Junior HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10509
+#EXTINF:-1 tvg-ID="" tvg-name="CA | DISNEY XD HD" tvg-logo="" group-title="USA & CANADA",CA | DISNEY XD HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10508
+#EXTINF:-1 tvg-ID="" tvg-name="CA | DIY NETWORK FHD" tvg-logo="" group-title="USA & CANADA",CA | DIY NETWORK FHD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10507
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Documentary" tvg-logo="" group-title="USA & CANADA",CA | Documentary
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10506
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Family West" tvg-logo="" group-title="USA & CANADA",CA | Family West
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10505
+#EXTINF:-1 tvg-ID="" tvg-name="CA | FIGHT NETWORK HD" tvg-logo="" group-title="USA & CANADA",CA | FIGHT NETWORK HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10504
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Food Network HD" tvg-logo="" group-title="USA & CANADA",CA | Food Network HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10503
+#EXTINF:-1 tvg-ID="" tvg-name="CA | FOX NEWS HD" tvg-logo="" group-title="USA & CANADA",CA | FOX NEWS HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10502
+#EXTINF:-1 tvg-ID="" tvg-name="CA | FOX WEST" tvg-logo="" group-title="USA & CANADA",CA | FOX WEST
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10501
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Game Tv" tvg-logo="" group-title="USA & CANADA",CA | Game Tv
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10500
+#EXTINF:-1 tvg-ID="" tvg-name="CA | GLOBAL HALIFAX HD" tvg-logo="" group-title="USA & CANADA",CA | GLOBAL HALIFAX HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10499
+#EXTINF:-1 tvg-ID="" tvg-name="CA | H2" tvg-logo="" group-title="USA & CANADA",CA | H2
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10498
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HBO 1" tvg-logo="" group-title="USA & CANADA",CA | HBO 1
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10497
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HBO 2 HD" tvg-logo="" group-title="USA & CANADA",CA | HBO 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10496
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HBO CANADA" tvg-logo="" group-title="USA & CANADA",CA | HBO CANADA
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10495
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HBO HD" tvg-logo="" group-title="USA & CANADA",CA | HBO HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10494
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HGTV HD" tvg-logo="" group-title="USA & CANADA",CA | HGTV HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10493
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HISTORY CHANNEL 2" tvg-logo="" group-title="USA & CANADA",CA | HISTORY CHANNEL 2
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10492
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HISTORY CHANNEL HD" tvg-logo="" group-title="USA & CANADA",CA | HISTORY CHANNEL HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10491
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HISTORY HD" tvg-logo="" group-title="USA & CANADA",CA | HISTORY HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10490
+#EXTINF:-1 tvg-ID="" tvg-name="CA | HLN HD" tvg-logo="" group-title="USA & CANADA",CA | HLN HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10489
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Leafs Tv" tvg-logo="" group-title="USA & CANADA",CA | Leafs Tv
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10488
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Lifetime HD" tvg-logo="" group-title="USA & CANADA",CA | Lifetime HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10487
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Love Nature HD" tvg-logo="" group-title="USA & CANADA",CA | Love Nature HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10486
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Movietime TV" tvg-logo="" group-title="USA & CANADA",CA | Movietime TV
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10485
+#EXTINF:-1 tvg-ID="" tvg-name="CA | NAT GEO HD" tvg-logo="" group-title="USA & CANADA",CA | NAT GEO HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10484
+#EXTINF:-1 tvg-ID="" tvg-name="CA | OWN HD" tvg-logo="" group-title="USA & CANADA",CA | OWN HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10483
+#EXTINF:-1 tvg-ID="" tvg-name="CA | PARAMOUNT NETWORK" tvg-logo="" group-title="USA & CANADA",CA | PARAMOUNT NETWORK
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10482
+#EXTINF:-1 tvg-ID="" tvg-name="CA | PBS HD" tvg-logo="" group-title="USA & CANADA",CA | PBS HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10481
+#EXTINF:-1 tvg-ID="" tvg-name="CA | PEACH TREE HD" tvg-logo="" group-title="USA & CANADA",CA | PEACH TREE HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10480
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SHOWCASE HD" tvg-logo="" group-title="USA & CANADA",CA | SHOWCASE HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10479
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Space HD" tvg-logo="" group-title="USA & CANADA",CA | Space HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10478
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Spike HD" tvg-logo="" group-title="USA & CANADA",CA | Spike HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10477
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SPORTSNET 360 FHD" tvg-logo="" group-title="USA & CANADA",CA | SPORTSNET 360 FHD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10476
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SportsNet EAST HD" tvg-logo="" group-title="USA & CANADA",CA | SportsNet EAST HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10475
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Sportsnet One (EPL 3PM)" tvg-logo="" group-title="USA & CANADA",CA | Sportsnet One (EPL 3PM)
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10474
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SportsNet ONE HD" tvg-logo="" group-title="USA & CANADA",CA | SportsNet ONE HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10473
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Sportsnet Ontario (EPL 3PM)" tvg-logo="" group-title="USA & CANADA",CA | Sportsnet Ontario (EPL 3PM)
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10472
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SportsNet Ontario HD" tvg-logo="" group-title="USA & CANADA",CA | SportsNet Ontario HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10471
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SportsNet Pacific FHD" tvg-logo="" group-title="USA & CANADA",CA | SportsNet Pacific FHD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10470
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SportsNet WEST HD" tvg-logo="" group-title="USA & CANADA",CA | SportsNet WEST HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10469
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SportsNet WORLD HD" tvg-logo="" group-title="USA & CANADA",CA | SportsNet WORLD HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10468
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Super Channel Vault" tvg-logo="" group-title="USA & CANADA",CA | Super Channel Vault
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10467
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SUPER ECRAN 1" tvg-logo="" group-title="USA & CANADA",CA | SUPER ECRAN 1
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10466
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SUPER ECRAN 2" tvg-logo="" group-title="USA & CANADA",CA | SUPER ECRAN 2
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10465
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SUPER ECRAN 3" tvg-logo="" group-title="USA & CANADA",CA | SUPER ECRAN 3
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10464
+#EXTINF:-1 tvg-ID="" tvg-name="CA | SUPER ECRAN 4" tvg-logo="" group-title="USA & CANADA",CA | SUPER ECRAN 4
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10463
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Teletoon" tvg-logo="" group-title="USA & CANADA",CA | Teletoon
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10462
+#EXTINF:-1 tvg-ID="" tvg-name="CA | Teletoon HD" tvg-logo="" group-title="USA & CANADA",CA | Teletoon HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10461
+#EXTINF:-1 tvg-ID="" tvg-name="CA | THE SHOPPING CHANNEL HD" tvg-logo="" group-title="USA & CANADA",CA | THE SHOPPING CHANNEL HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10460
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TLC HD" tvg-logo="" group-title="USA & CANADA",CA | TLC HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10459
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TREEHOUSE" tvg-logo="" group-title="USA & CANADA",CA | TREEHOUSE
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10458
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TREEHOUSE HD" tvg-logo="" group-title="USA & CANADA",CA | TREEHOUSE HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10457
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TSN 1 HD" tvg-logo="" group-title="USA & CANADA",CA | TSN 1 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10456
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TSN 2 HD" tvg-logo="" group-title="USA & CANADA",CA | TSN 2 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10455
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TSN 3 HD" tvg-logo="" group-title="USA & CANADA",CA | TSN 3 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10454
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TSN 4 HD" tvg-logo="" group-title="USA & CANADA",CA | TSN 4 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10453
+#EXTINF:-1 tvg-ID="" tvg-name="CA | TSN 5 HD" tvg-logo="" group-title="USA & CANADA",CA | TSN 5 HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10452
+#EXTINF:-1 tvg-ID="" tvg-name="CA | WEATHER CHANNEL HD" tvg-logo="" group-title="USA & CANADA",CA | WEATHER CHANNEL HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10451
+#EXTINF:-1 tvg-ID="" tvg-name="CA | World Fishing TV" tvg-logo="" group-title="USA & CANADA",CA | World Fishing TV
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10450
+#EXTINF:-1 tvg-ID="" tvg-name="CA | WORLD HD" tvg-logo="" group-title="USA & CANADA",CA | WORLD HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10449
+#EXTINF:-1 tvg-ID="" tvg-name="CA | WORLD SUPER BIKE" tvg-logo="" group-title="USA & CANADA",CA | WORLD SUPER BIKE
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10448
+#EXTINF:-1 tvg-ID="" tvg-name="CA | WSBK" tvg-logo="" group-title="USA & CANADA",CA | WSBK
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10447
+#EXTINF:-1 tvg-ID="" tvg-name="CA | YTV HD" tvg-logo="" group-title="USA & CANADA",CA | YTV HD
+http://restream.mypsx.net:8000/CRcSYBC7b1/ftGkEDxNvR/10446
+#EXTINF:-1 tvg-ID="" tvg-name="₪₪₪[ SWITZERLAND ]₪₪₪" tvg-logo="https://asage.ch/wp-content/uploads/suisse1.jpg" group-title="SWITZERLAND",₪₪₪[ 
